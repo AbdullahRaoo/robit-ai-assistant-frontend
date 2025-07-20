@@ -2,6 +2,9 @@
 
 Welcome to the **Robit AI Assistant**! This project is a cutting-edge AI-powered assistant built with modern web technologies. Explore the features, tech stack, and how to get started below.
 
+Visit live demo:
+https://robit-ai-assistant.vercel.app/
+
 ---
 
 ## 🌟 Features
